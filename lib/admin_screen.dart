@@ -227,13 +227,13 @@ class AdminScreenState extends State<AdminScreen> {
           ),
           Positioned(
             bottom: 20,
-            left: 345,
+            left: 344,
             child: Container(
               height: 70,
               width: 70,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(20),
-                color: const Color.fromARGB(255, 66, 80, 233),
+                color: const Color.fromARGB(255, 81, 93, 227),
               ),
               child: Icon(Icons.add),
             ),
